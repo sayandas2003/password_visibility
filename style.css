@@ -1,0 +1,40 @@
+.input-container {
+    position: relative;
+    background-color: #1f222b;
+    border-radius: 4px;
+    margin-bottom: 25px;
+  }
+  input {
+    font-family: 'Poppins';
+    padding: 12px 13px;
+    border: none;
+    outline: none;
+    color: #ffbe2f;
+    background-color: transparent;
+    transition: all 0.2s ease;
+    font-size: 20px;
+    width: 300px;
+    font-weight: 600;
+  }
+  input:focus {
+    border: none;
+    outline: none;
+  }
+  input::placeholder {
+    color: #777;
+    font-weight: 600;
+    font-size: 20px;
+  }
+  .icon {
+    position: absolute;
+    top: 14px;
+    right: 15px;
+    color: #777;
+    font-size: 27px;
+    cursor: pointer;
+  }
+  .hide-icon {
+    display: none;
+  }
+  
+  
