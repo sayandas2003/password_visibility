@@ -1,0 +1,1 @@
+A password visibility toggle application using HTML, CSS, and JavaScript. It allows users to easily switch between showing and hiding their password by clicking on icons. The app features a sleek design with smooth transitions and an intuitive user interface, enhancing the password input experience.
